@@ -1,3 +1,4 @@
+# Write a program to generate all rotations of given string
 str = "indal"
 size = len(str)
 temp = str+str
